@@ -1,6 +1,6 @@
 import sys
 
 
-arg = sys.argv
+arg = sys.argv # recupero los argumentos
 
-print('primer valor ingresado es: ',  arg[1])
+print('primer valor ingresado es: ',  arg)
