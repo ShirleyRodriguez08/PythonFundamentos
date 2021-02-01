@@ -35,3 +35,4 @@ Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.gith
 
 - [Hecktor Profe Python](https://docs.hektorprofe.net/python/) 
 - Guía de estilo escritura python: [PEP 8](https://www.python.org/dev/peps/pep-0008/?fbclid=IwAR1nA1UklLNW22-9t32Clybzyczj_i6EMA1fJdk9TwUe-OXLSriPQH9xKhE)
+- [Libros Python](https://drive.google.com/drive/folders/1u_dg31pkLasj2H3L4VO2QUNFnYpA9bn1?usp=sharing) 
