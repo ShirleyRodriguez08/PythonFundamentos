@@ -38,3 +38,4 @@ Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.gith
 - [Libros Python](https://drive.google.com/drive/folders/1u_dg31pkLasj2H3L4VO2QUNFnYpA9bn1?usp=sharing) 
 - [Activar python anaconda CMD](https://stackoverflow.com/questions/49616399/windows-anaconda-python-is-not-recognized-as-an-internal-or-external-command)
 - [Documentación Numpy Style](https://numpydoc.readthedocs.io/en/latest/format.html)
+- Intro [Jupyter Notebook](https://www.youtube.com/watch?v=CwbMaSkKDZg&ab_channel=RafaGonzalezGouveia)
