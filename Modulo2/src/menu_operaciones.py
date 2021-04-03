@@ -44,9 +44,9 @@ while True:
         print("El resultado de la suma es: ", sumar(n1, n2))
         break
     elif opcion == '2':
-        cantidad = int(input('Cuantos numeros quiere introducir? '))
-        
-        promedio = promedio_numeros(cantidad)
+        c = int(input('Ingrese la cantidad de números a solicitar: '))
+
+        promedio = promedio_numeros(c)
         print(f'El promedio de los números introducidos es {promedio}')
         break
     elif opcion =='3':
