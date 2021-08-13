@@ -16,6 +16,7 @@ Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.gith
 ### Modulo 2
 - Estructuras de Control iterativas
 - Funciones Python
+- Métodos de Cadena
 
 
 ### Modulo 3
