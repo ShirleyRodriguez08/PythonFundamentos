@@ -26,9 +26,14 @@ Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.gith
 
 ### Modulo 4
 - Manejo de Ficheros
-- Introducción a Pandas
 - Expresiones Regulares
 - Generación de Módulos y paquetes
+
+### Modulo 5
+- Introducción a Pandas
+- Introduccion a la visualización
+- Intro a HTML
+- Intro a Flask
 
 
 
