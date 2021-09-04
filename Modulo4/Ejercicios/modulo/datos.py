@@ -17,7 +17,7 @@ def read_pandas(path, inicio, fin):
 
 
 if __name__ == "__main__":
-    path = '../data/re/short_tweets.csv'
+    path = '../src/re/short_tweets.csv'
     s = obtener_dato(106)
 
     print(read_pandas(path))
