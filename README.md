@@ -18,16 +18,15 @@ Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.gith
 - Funciones Python
 - Métodos de Cadena
 
-
 ### Modulo 3
 - Manejo de Errores
+- Generación de Módulos y paquetes
 - Programación Orientada a Objetos
-- Iniciando la Automatización
 
 ### Modulo 4
+- Iniciando la Automatización
 - Manejo de Ficheros
 - Expresiones Regulares
-- Generación de Módulos y paquetes
 
 ### Modulo 5
 - Introducción a Pandas
