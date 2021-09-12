@@ -20,8 +20,8 @@ Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.gith
 
 ### Modulo 3
 - Manejo de Errores
-- Generación de Módulos y paquetes
 - Programación Orientada a Objetos
+- Generación de Módulos y paquetes
 
 ### Modulo 4
 - Iniciando la Automatización
@@ -33,7 +33,6 @@ Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.gith
 - Introduccion a la visualización
 - Intro a HTML
 - Intro a Flask
-
 
 
 ## Material Extra del Curso
