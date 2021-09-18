@@ -1,7 +1,7 @@
 # PYTHON FUNDAMENTOS
 Material del Curso de Fundamentos de Programación con Python
 
-Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.github.io/PythonFundamentos).
+Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.github.io/PythonFundamentos/index.html).
 
 ## Contenido del Curso
 
