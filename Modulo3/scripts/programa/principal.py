@@ -5,7 +5,7 @@ import sys
 
 # librerias propias
 import ingreso_datos as ing
-from triangulos import triangulo 
+from triangulos import triangulo as t
 import mate.factorial as f
 
 
